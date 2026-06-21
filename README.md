@@ -1,2 +1,2 @@
-# aula5.1
-backend
+# curso-code
+Ambiente Node.js, Express.js, MongoDb
